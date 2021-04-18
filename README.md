@@ -1,5 +1,3 @@
-# UTT-TN09
+# UTT - Template de soutenance de stage
 
-Template LaTeX minimaliste pour l'écriture des rapports ST09/ST10 de l'Université de Technologie de Troyes.
-
-Le plan, l'overlay, ainsi que les recommandations sont basés sur le très officiel [carnet de stage](carnet_pour_A17-1.pdf).
+Template LaTeX minimaliste pour préparer les slides de soutenance de stage (voir branche `soutenance`) de l'Université de Technologie de Troyes.
